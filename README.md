@@ -6,20 +6,16 @@ Este proyecto es una **práctica académica de la universidad** que simula un si
 
 A continuación, se muestran algunas capturas del sistema en acción:
 
-1. **Pantalla de inicio de sesión**  
-   ![Pantalla de inicio de sesión](capturas/1.png)
+![captura 5](capturas/1.png)
 
-2. **Interfaz de consulta de saldo**  
-   ![Consulta de saldo](capturas/2.png)
+![captura 1](capturas/2.png)
 
-3. **Pantalla de retiro de dinero**  
-   ![Retiro de dinero](capturas/3.png)
+![captura 2](capturas/3.png)
 
-4. **Interfaz de cambio de clave**  
-   ![Cambio de clave](capturas/4.png)
+![captura 3](capturas/4.png)
 
-5. **Pantalla de finalización de sesión**  
-   ![Finalización de sesión](capturas/5.png)
+![captura 4](capturas/5.png)
+
 
 ## 🚀 Requisitos
 
